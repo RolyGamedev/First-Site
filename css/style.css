@@ -1,0 +1,68 @@
+.main-header{
+    display: inline-block;
+    color: white;
+    text-decoration: underline;
+    text-indent: 45px;
+}
+
+.header-info{
+   text-align: center;
+   background-color: rgb(76, 88, 253);
+   margin-top: -0.7em;
+   margin-left: -2em;
+   margin-right: -2em;  
+}
+
+.main-pic{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-pic{
+    width: 100%;
+    height: auto;
+ }
+
+.multiple-pics{
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+
+}
+
+.row{
+   text-align: center;
+   display: inline-block;
+    padding: 10px;
+}
+
+ .mid-pics{
+     width: 400px;
+     height: 400px;
+    
+ }
+
+ #country-description{
+     margin-left: auto;
+     margin-right: auto;
+     font-size: 30px;
+     
+ }
+
+ .p{
+    text-align: center;
+}
+
+.form{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-color: rgb(92, 33, 33);
+    border-width: 3px;
+    font-size: 32px;
+    display: table;
+}
